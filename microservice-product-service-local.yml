@@ -1,5 +1,5 @@
 server:
-  port: 8721
+  port: 8722
   env: local-2019-01
 
 eureka:
