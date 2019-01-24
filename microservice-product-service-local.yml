@@ -1,5 +1,6 @@
 server:
   port: 8721
+  env: local
 
 eureka:
   instance:
